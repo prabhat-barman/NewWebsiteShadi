@@ -1,6 +1,6 @@
 import React from "react";
 import { FaSearch } from "react-icons/fa";
-import logo from '../../images/logo.png';
+import logo from "../../Images/logo.png";
 
 const NavBar = () => {
   return (
