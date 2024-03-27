@@ -1,14 +1,8 @@
 import "./App.css";
-import SideMenu from "./components/SideMenu";
-
-
+import NavBar from "./components/NavBar";
 
 function App() {
-  return (
-    <>
-<SideMenu/>
-  </>
-  )
-};
+  return <div className="App"></div>;
+}
 
 export default App;
