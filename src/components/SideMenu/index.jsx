@@ -23,17 +23,17 @@ const SideMenu = () => {
 <div className="text-gray-700">
   <div className="flex items-center gap-3 pl-4">
     <LuLayoutDashboard />
-    <button className="ml-2">Dashboard</button>
+    <button className="ml-2">All Photos</button>
   </div>
 
   <div className="flex items-center mt-4 pl-4 gap-3">
     <IoBookOutline />
-    <button className="ml-2">Courses</button>
+    <button className="ml-2">Album</button>
   </div>
 
   <div className="flex items-center mt-4 pl-4 gap-3">
     <FaRegCalendarAlt />
-    <button className="ml-2">Agenda</button>
+    <button className="ml-2">Calendar</button>
   </div>
 
   <div className="flex items-center mt-4 pl-4 gap-3">
