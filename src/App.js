@@ -4,10 +4,14 @@ import SideMenu from "./components/SideMenu";
 
 function App() {
   return (
-    <div className="App">
-      <NavBar />
-      <SideMenu />
-    </div>
+    <>
+      <nav className="">
+        <NavBar />
+      </nav>
+      <div className="">
+        <SideMenu />
+      </div>
+    </>
   );
 }
 
