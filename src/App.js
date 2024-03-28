@@ -2,6 +2,7 @@ import "./App.css";
 import CarouselShrishti from "./components/CarouselShrishti";
 import NavBar from "./components/NavBar";
 import SideMenu from "./components/SideMenu";
+import CarouselGunjan from "./components/CarouselGunjan";
 
 function App() {
   return (
@@ -12,9 +13,11 @@ function App() {
       <div className="">
         <SideMenu />
       </div>
-      <div><CarouselShrishti/></div>
     </>
   );
 }
 
 export default App;
+
+
+        
