@@ -1,6 +1,7 @@
 import "./App.css";
 import NavBar from "./components/NavBar";
 import SideMenu from "./components/SideMenu";
+import CarouselGunjan from "./components/CarouselGunjan";
 
 function App() {
   return (
@@ -11,8 +12,12 @@ function App() {
       <div className="">
         <SideMenu />
       </div>
+      <CarouselGunjan/>
     </>
   );
 }
 
 export default App;
+
+
+        
