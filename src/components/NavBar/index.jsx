@@ -19,6 +19,7 @@ const NavBar = () => {
           <button className="hover:text-black active:font-bold focus:outline-none focus:text-black focus:font-bold focus:border-b-2 focus:border-gray-600">
             Products
           </button>
+          
           <button className="hover:text-black active:font-bold focus:outline-none focus:text-black focus:font-bold focus:border-b-2 focus:border-gray-600">
             About
           </button>
