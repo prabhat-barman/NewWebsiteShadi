@@ -13,11 +13,9 @@ function App() {
       <div className="">
         <SideMenu />
       </div>
+      <CarouselShrishti />
     </>
   );
 }
 
 export default App;
-
-
-        
