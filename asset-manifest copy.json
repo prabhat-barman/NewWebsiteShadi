@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewWebsiteShadi/static/css/main.b117030b.css",
+    "main.js": "/NewWebsiteShadi/static/js/main.f08f26e1.js",
+    "static/js/453.ed3810f9.chunk.js": "/NewWebsiteShadi/static/js/453.ed3810f9.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/NewWebsiteShadi/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/NewWebsiteShadi/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/logo.png": "/NewWebsiteShadi/static/media/logo.4adf19c5d81e469c82ae.png",
+    "static/media/flowbiteimg2.png": "/NewWebsiteShadi/static/media/flowbiteimg2.0d76b38218fd9e0b4bf4.png",
+    "static/media/flowbiteimg1.png": "/NewWebsiteShadi/static/media/flowbiteimg1.547b859662fa3ce77e62.png",
+    "static/media/flowbiteimg3.png": "/NewWebsiteShadi/static/media/flowbiteimg3.1cf5fd93409e8661e906.png",
+    "static/media/flowbiteimg4.png": "/NewWebsiteShadi/static/media/flowbiteimg4.b7a6158df6817d2a3e6f.png",
+    "index.html": "/NewWebsiteShadi/index.html",
+    "main.b117030b.css.map": "/NewWebsiteShadi/static/css/main.b117030b.css.map",
+    "main.f08f26e1.js.map": "/NewWebsiteShadi/static/js/main.f08f26e1.js.map",
+    "453.ed3810f9.chunk.js.map": "/NewWebsiteShadi/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b117030b.css",
+    "static/js/main.f08f26e1.js"
+  ]
+}
